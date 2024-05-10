@@ -1,0 +1,3 @@
+Curso: Patrones de Disenio, Estudiantes: 250, Valoracion: 4.7
+Curso: Flutter, Estudiantes: 500, Valoracion: 4.9
+Curso: CSharp .Net 8, Estudiantes: 1200, Valoracion: 5
